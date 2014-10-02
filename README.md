@@ -20,6 +20,10 @@ Easy cut and paste in one line
 
 sudo yum install gcc gcc-c++ emacs make ruby ruby-devel rubygem-mysql rubygem-sqlite3 sqlite-devel
 
+rails new myapp
+
+cd myapp
+
 edit Gemfile, uncomment therubyracer line
 
 bundle install
