@@ -23,4 +23,5 @@ sudo yum install gcc gcc-c++ emacs make ruby ruby-devel rubygem-mysql rubygem-sq
 edit Gemfile, uncomment therubyracer line
 
 bundle install
+
 rails server
