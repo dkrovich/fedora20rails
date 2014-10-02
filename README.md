@@ -18,7 +18,7 @@ sqlite-devel
 
 Easy cut and paste in one line
 
-sudo yum install gcc gcc-c++ emacs make ruby ruby-devel rubygem-mysql rubygem-sqlite3 sqlite-devel
+sudo yum install gcc gcc-c++ emacs make ruby ruby-devel rubygem-rails rubygem-mysql rubygem-sqlite3 sqlite-devel
 
 rails new myapp
 
